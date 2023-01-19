@@ -10,23 +10,18 @@
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+The project was developed by the following technologies
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+DevLinks is a link aggregator to use as an online business card.
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-## :memo: Licença
 
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Karine
+Done ♥ by Karine
