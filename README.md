@@ -1,11 +1,5 @@
 <h1 align="center"> DevLinks </h1>
 
-<p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-<br>
-
 ## 🚀 Technologies
 
 The project was developed by the following technologies
