@@ -12,6 +12,6 @@ The project was developed by the following technologies
 ## 💻 Project
 
 DevLinks is a link aggregator to use as an online business card.
-- [Acesse o projeto finalizado, online](https://karinecord.github.io/projects)
+- [Acesse o projeto finalizado, online](https://karinecord.github.io/OnlineBusinessCard/)
 
 Made ♥ by Karine
