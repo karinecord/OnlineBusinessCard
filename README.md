@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Online Business Card </h1>
 
 ## 🚀 Technologies
 
@@ -12,6 +12,6 @@ The project was developed by the following technologies
 ## 💻 Project
 
 DevLinks is a link aggregator to use as an online business card.
-- [Access the finished project, online](https://karinecord.github.io/OnlineBusinessCard/)
+- [Access the finished project,online](https://karinecord.github.io/OnlineBusinessCard/)
 
 Made ♥ by Karine
